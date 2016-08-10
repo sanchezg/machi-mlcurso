@@ -5,7 +5,8 @@ import re
 
 STOPWORDS = [
     'para', 'de', 'y', 'con', 'la', 'las', 'los', 'el', 'envio', 'gratis',
-    'o', 'por', 'en', '-', '!', '\\', '/', 'a'
+    'o', 'por', 'en', '-', '!', '\\', '/', 'a', 'un', 'una', 'unos', 'unas',
+    'del', '+', 'tipo'
 ]
 
 
